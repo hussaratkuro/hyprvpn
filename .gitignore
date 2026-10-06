@@ -1,0 +1,6 @@
+.claude/
+CLAUDE.md
+/dist/
+/graphify-out/
+/hyprvpn
+*.log

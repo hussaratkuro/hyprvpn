@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=hyprvpn
+GenericName=OpenVPN 3 Client
+Comment=OpenVPN 3 client with OAuth authentication (GUI)
+Exec=__HOME__/.local/bin/hyprvpn
+TryExec=__HOME__/.local/bin/hyprvpn
+Icon=__HOME__/.local/share/icons/hyprvpn/hyprvpn.png
+Terminal=false
+Categories=Network;
+Keywords=VPN;OpenVPN;OAuth;
+StartupNotify=true
+StartupWMClass=hyprvpn
